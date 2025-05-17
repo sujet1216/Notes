@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+                "file": "Dart-Flutter/SOLID Principles in Dart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flutter doctor issue - JAVA instalation"
+              "title": "SOLID Principles in Dart"
             }
           }
         ]
@@ -168,16 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20b081551f1e4ea9",
+  "active": "3134e505d2a952c0",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
-    "Dart-Flutter/notes.md",
     "Dart-Flutter/SOLID Principles in Dart.md",
+    "hey.md",
     "Dart-Flutter/Object-Oriented Programming (OOP) Principles in Dart.md",
+    "Dart-Flutter/notes.md",
     "Dart-Flutter/Max Flutter 2.md",
-    "Dart-Flutter/Inheritance.md",
     "Dart-Flutter/HTTP - REST - API.md",
+    "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+    "Welcome.md",
+    "Dart-Flutter/Inheritance.md",
     "Dart-Flutter/Dart Language Concepts.md",
     "Dart-Flutter"
   ]
