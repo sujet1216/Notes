@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "7e0b00093f03bd3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b51bdb90f29b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b081551f1e4ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flutter doctor issue - JAVA instalation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d1976f2def6d24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e87d7b5870e327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3134e505d2a952c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "56b346710e3794c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aeec9e14e29d3bb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f746aa24cc7159a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccada1ef5349f587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e5455308c96074",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Flutter doctor issue - JAVA instalation"
+            }
+          },
+          {
+            "id": "d0c7d644291dafd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Flutter doctor issue - JAVA instalation"
+            }
+          },
+          {
+            "id": "8c2794e217b6753f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "596e53980a0e1a7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flutter doctor issue - JAVA instalation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20b081551f1e4ea9",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Dart-Flutter/Flutter doctor issue - JAVA instalation.md",
+    "Dart-Flutter/notes.md",
+    "Dart-Flutter/SOLID Principles in Dart.md",
+    "Dart-Flutter/Object-Oriented Programming (OOP) Principles in Dart.md",
+    "Dart-Flutter/Max Flutter 2.md",
+    "Dart-Flutter/Inheritance.md",
+    "Dart-Flutter/HTTP - REST - API.md",
+    "Dart-Flutter/Dart Language Concepts.md",
+    "Dart-Flutter"
+  ]
+}
